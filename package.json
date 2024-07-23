@@ -1,0 +1,14 @@
+{
+  "name": "talknet",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node Backend/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
